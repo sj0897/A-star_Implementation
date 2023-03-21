@@ -1,6 +1,6 @@
 # A-star_implementation
 
-Github : https://github.com/sj0897/Dijkstras_implementation
+Github : https://github.com/sj0897/A-star_Implementation
 
 <img width="600" alt="animation" src="TestCase_3.jpg"> 
 
