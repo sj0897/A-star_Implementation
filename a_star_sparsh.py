@@ -338,7 +338,7 @@ def generateVideo(process , path , goal, occGrid):
 
     rows, cols = occGrid.shape
     fourcc = cv2.VideoWriter_fourcc('F','M','P','4')
-    video = cv2.VideoWriter('TestCase_3.avi', fourcc, float(2000), (601, 251))
+    video = cv2.VideoWriter('TestCase_3.avi', fourcc, float(24), (601, 251))
     
     c_x, c_y, _ = goal
     for x in range(c_x-3, c_x+3): 
